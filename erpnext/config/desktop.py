@@ -291,7 +291,7 @@ def get_data():
 			"label": _("Healthcare"),
 			"hidden": 1
 		},
-        {
+        	{
 			"module_name": "Patient",
 			"color": "#6BE273",
 			"icon": "fa fa-user",
@@ -300,8 +300,8 @@ def get_data():
 			"link": "List/Patient",
 			"label": _("Patient"),
 			"hidden": 1
-        },
-        {
+        	},
+       	 	{
 			"module_name": "Patient Appointment",
 			"color": "#934F92",
 			"icon": "fa fa-calendar-plus-o",
@@ -310,8 +310,8 @@ def get_data():
 			"link": "List/Patient Appointment",
 			"label": _("Patient Appointment"),
 			"hidden": 1
-        },
-        {
+       		},
+        	{
 			"module_name": "Consultation",
 			"color": "#2ecc71",
 			"icon": "fa fa-stethoscope",
@@ -320,8 +320,8 @@ def get_data():
 			"link": "List/Consultation",
 			"label": _("Consultation"),
 			"hidden": 1
-        },
-        {
+        	},
+       		{
 			"module_name": "Lab Test",
 			"color": "#7578f6",
 			"icon": "octicon octicon-beaker",
